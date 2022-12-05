@@ -1,1 +1,1 @@
-console.log('Hello from c.js!');
+export const useConsoleLog = () => console.log('Hello from c.js!');
